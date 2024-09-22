@@ -1,6 +1,6 @@
 # Wasat Khan - Data Analyst Portfolio
 ## About
-With a strong passion for data and market analysis, I am a Market Research Associate and Data Analysis Specialist committed to uncovering valuable insights that drive business success. My journey in data analysis has equipped me with essential skills in Python, SQL, and Excel, allowing me to transform complex datasets into clear, actionable reports.
+With a strong passion for data and market analysis, I am a Data Analyst, Machine Learning Enthusiast and SQL Expert committed to uncovering valuable insights that drive business success. My journey in data analysis has equipped me with essential skills in Python, SQL, and Excel, allowing me to transform complex datasets into clear, actionable reports.
 
 In my previous roles, I’ve successfully developed interactive dashboards and conducted in-depth analyses, focusing on key areas like healthcare trends and consumer complaints. For instance, I created a dynamic Power BI dashboard that visualized patient demographics and department performance, helping healthcare providers make informed decisions about service improvements. Additionally, my work analyzing consumer complaints revealed critical trends that enhanced customer service strategies, ultimately leading to better response times and increased satisfaction.
 
